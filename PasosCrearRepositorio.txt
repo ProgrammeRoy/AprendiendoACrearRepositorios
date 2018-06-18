@@ -1,0 +1,15 @@
+Hola Repositorio¡¡¡
+
+Pasos para crear Repositorio:
+
+1. En la web GitHub: Crear Repositorio-Asignar Nombre.
+2. Abrir CMD, ubicarse en la dirección de la carpeta que se guardará.
+3. En CMD, Crear controlador git:
+	git clone (copiar el enlace del repositorio creado en GitHub)
+4. En CMD, ubicarse en la dirección de la carpeta creada por GitHub.
+5. Agregar cambios: 
+	git add -A
+6. Realizar commit:
+	git commit -m
+7. Publicar:
+	git push
